@@ -1,0 +1,1 @@
+..\srecpatch.exe "ROMS\in.bin" OUTPUT\out.md<srecfile.txt
