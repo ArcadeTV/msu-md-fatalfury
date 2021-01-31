@@ -34,16 +34,14 @@ Date:          2020-09-21
 Category:      Romhack / Music
 Thanks:        Dustin O'Dell (asm tutor), Krikzz (everdrive creator), Conn (mental coach)
 
-Soundpacks:    Arranged OST: 
-               >> 
+Soundpacks:    Arranged OST: (Garou Densetsu Image Album)
+               >> tba
+               Neo Geo OST: (CD)
+               >> tba
 
 Source:        https://github.com/ArcadeTV/msu-md-fatalfury
 
 Driver Source: https://github.com/krikzz/msu-md
-
-Includes:      "Level Select Enabled" 
-               by SCD
-               https://www.romhacking.net/hacks/5509/ <- for reference, no additional patching required
 
 #############################################################################################################################
 
